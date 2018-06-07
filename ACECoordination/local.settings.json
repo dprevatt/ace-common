@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "outputQueueConnection": "DefaultEndpointsProtocol=https;AccountName=acecoordination;AccountKey=CIcQzvPnfxbpk5E5MLL404KBpOyj6Azq/F8ze/of/LYYrkF0q+FDQC6S5TCBXLtzsm8uJa8+AUqLjQK0BjGz0g==;",
+      "outputQueueName":  "aceinbound"
+  }
+}
